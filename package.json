@@ -1,0 +1,27 @@
+{
+  "name": "hexo_blog_genrater",
+  "version": "1.2.0",
+  "description": "Auto genrate Hexo (hexo.io) blog in few seconds",
+  "main": "index.cjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhouyiStudio/Hexo_Blog_Genrater.git"
+  },
+  "keywords": [
+    "Hexo",
+    "Blog"
+  ],
+  "author": "ZhouyiDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhouyiStudio/Hexo_Blog_Genrater/issues"
+  },
+  "homepage": "https://github.com/ZhouyiStudio/Hexo_Blog_Genrater#readme",
+  "dependencies": {
+    "hexo_blog_genrater": "^1.0.0"
+  }
+}
